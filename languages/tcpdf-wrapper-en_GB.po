@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TCPDF Wrapper\n"
+"POT-Creation-Date: 2020-04-24 10:07+0530\n"
+"PO-Revision-Date: 2020-04-24 10:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: tcpdf-wrapper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-tcpdf-wrapper-admin.php:55
+msgid "TCPDF Wrapper Options"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-tcpdf-wrapper-admin.php:56
+msgid "TCPDF Wrapper"
+msgstr ""
+
+#: admin/class-tcpdf-wrapper-admin.php:75
+msgid "Include Globally"
+msgstr ""
+
+#: admin/class-tcpdf-wrapper-admin.php:79
+msgid "Include Manually"
+msgstr ""
+
+#: admin/class-tcpdf-wrapper-admin.php:93
+msgid "Please choose the way you would like to include the TCPDF library."
+msgstr ""
+
+#: admin/class-tcpdf-wrapper-admin.php:115
+msgid ""
+"Copy the below code and paste it in your plugin/ theme to include the library"
+msgstr ""
+
+#: admin/class-tcpdf-wrapper-admin.php:132
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/class-tcpdf-wrapper-admin.php:141
+msgid "Save Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.doublewp.com/plugins/tcpdf-wrapper/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Wordpress wrapper for the popular PHP based TCPDF Library to generate PDF "
+"document on the fly."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DoublewP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.doublewp.com"
+msgstr ""

@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Door Sign\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-18 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: public/class-door-sign-public.php:626
+#, php-format
+msgid "%s cannot be added to the cart until you enter some custom text."
+msgstr ""
+
+#. Description of the plugin
+msgid "Create dynamic Door Sign products in Woocommerce!"
+msgstr ""
+
+#: public/class-door-sign-public.php:572
+msgid "custom_door_sign_image"
+msgstr ""
+
+#. Name of the plugin
+msgid "Door Sign"
+msgstr ""
+
+#: public/class-door-sign-public.php:740
+msgid "Door Sign Text Lines"
+msgstr ""
+
+#: public/class-door-sign-public.php:575
+msgid "font_size_multiplier"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://c-youhome.no"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.screenpartner.no"
+msgstr ""
+
+#: public/class-door-sign-public.php:576
+msgid "line_height_multiplier"
+msgstr ""
+
+#: public/class-door-sign-public.php:871 public/class-door-sign-public.php:907
+msgid "Mounting Option"
+msgstr ""
+
+#. Author of the plugin
+msgid "ScreenPartner"
+msgstr ""
+
+#: public/class-door-sign-public.php:602
+msgid "Text Line"
+msgstr ""
+
+#: public/class-door-sign-public.php:703
+msgid "Text Line "
+msgstr ""
+
+#: public/class-door-sign-public.php:573
+msgid "text_line_font_sizes"
+msgstr ""
+
+#: public/class-door-sign-public.php:574
+msgid "text_line_heights"
+msgstr ""
