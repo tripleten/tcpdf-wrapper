@@ -1,7 +1,7 @@
 # tcpdf-wrapper
 A Wordpress wrapper for the popular PHP based TCPDF Library to generate PDF document on the fly.
 
-== Description ==
+
 Inspired by the TCPDF Library plugin of [Rheinard Korf](https://wordpress.org/plugins/tcpdf/), this plugin exposes the **TCPDF** library version 6.3.5 to be used by other plugins or themes. This greatly reduces the size of plugins and will ensure that you always have the latest TCPDF version (compatible with WordPress minimum requirements) available. You can also configure if you want to include the wrapper **globally** or **manually** within your plugin or theme.
 
 ### Credits
