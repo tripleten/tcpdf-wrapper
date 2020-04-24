@@ -5,11 +5,11 @@ A Wordpress wrapper for the popular PHP based TCPDF Library to generate PDF docu
 Inspired by the TCPDF Library plugin of [Rheinard Korf](https://wordpress.org/plugins/tcpdf/), this plugin exposes the **TCPDF** library version 6.3.5 to be used by other plugins or themes. This greatly reduces the size of plugins and will ensure that you always have the latest TCPDF version (compatible with WordPress minimum requirements) available. You can also configure if you want to include the wrapper **globally** or **manually** within your plugin or theme.
 
 ### Credits
-* ** author ** Nicola Asuni info@tecnick.com
-* ** copyright ** 2002-2020 Nicola Asuni - Tecnick.com LTD
-* ** license ** http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE.TXT)
-* ** link ** http://www.tcpdf.org
-* ** source ** https://github.com/tecnickcom/TCPDF
+* autho Nicola Asuni info@tecnick.com
+* copyrigh 2002-2020 Nicola Asuni - Tecnick.com LTD
+* license http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE.TXT)
+* link http://www.tcpdf.org
+* source https://github.com/tecnickcom/TCPDF
 
 == Installation ==
 
